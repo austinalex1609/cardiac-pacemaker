@@ -1,0 +1,11 @@
+<section id="single-chamber">
+  <h1>Single Chambered Pacemaker</h1>
+  <p>
+    A single chamber pacemaker typically stimulates either the right atrium or the right ventricle.
+    The following diagram shows the internal block diagram of a ventricular inhibited pacemaker.
+  </p>
+  <img src="ventricular_pacemaker.png" alt="Ventricular Inhibited Pacemaker Diagram" style="max-width: 100%; height: auto;" />
+  <figcaption style="text-align:center; font-style: italic; margin-top: 5px;">
+    Figure 3.2 Ventricular inhibited pacemaker
+  </figcaption>
+</section>

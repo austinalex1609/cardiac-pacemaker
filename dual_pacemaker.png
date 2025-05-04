@@ -1,0 +1,11 @@
+<section id="dual-chamber">
+  <h1>Dual Chambered Pacemaker</h1>
+  <p>
+    Dual chambered pacemakers stimulate both the atrium and the ventricle, closely mimicking the heart's natural pacing. 
+    The block diagram below illustrates the internal components and flow of signals within a dual chambered pacemaker.
+  </p>
+  <img src="dual_pacemaker.png" alt="Dual Chambered Pacemaker Diagram" style="max-width: 100%; height: auto;" />
+  <figcaption style="text-align:center; font-style: italic; margin-top: 5px;">
+    Internal block diagram of a dual chambered pacemaker
+  </figcaption>
+</section>

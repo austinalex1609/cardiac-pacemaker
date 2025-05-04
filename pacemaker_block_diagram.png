@@ -1,0 +1,11 @@
+<section id="pacemaker-block-diagram">
+  <h1>Block Diagram of a Pacemaker</h1>
+  <p>
+    The block diagram below represents the functional components of a pacemaker, from sensing the heart's electrical signals
+    to generating and delivering corrective electrical impulses.
+  </p>
+  <img src="pacemaker_block_diagram.png" alt="Block Diagram of a Pacemaker" style="max-width: 100%; height: auto;" />
+  <figcaption style="text-align:center; font-style: italic; margin-top: 5px;">
+    Block diagram showing internal functional blocks of a pacemaker system
+  </figcaption>
+</section>

@@ -1,0 +1,16 @@
+<section id="biventricular-pacemaker">
+  <h1>Biventricular Pacemaker</h1>
+  <p>
+    A biventricular pacemaker, also called a cardiac resynchronization therapy (CRT) device, uses three leads placed in:
+    <ul>
+      <li>1. Right atrium</li>
+      <li>2. Right ventricle</li>
+      <li>3. Left ventricle (via the coronary sinus vein)</li>
+    </ul>
+    This device helps coordinate the contraction of both ventricles, improving the heart's efficiency in patients with heart failure.
+  </p>
+  <img src="biventricular_pacemaker.png" alt="Biventricular Pacemaker Diagram" style="max-width: 100%; height: auto;" />
+  <figcaption style="text-align:center; font-style: italic; margin-top: 5px;">
+    Diagram showing placement of leads in a biventricular pacemaker
+  </figcaption>
+</section>
